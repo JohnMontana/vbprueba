@@ -1,0 +1,10 @@
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\bin\Debug\conexionbd.exe.config
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\bin\Debug\conexionbd.exe
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\bin\Debug\conexionbd.pdb
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\bin\Debug\conexionbd.xml
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\obj\Debug\conexionbd.Form1.resources
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\obj\Debug\conexionbd.Resources.resources
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\obj\Debug\conexionbd.vbproj.GenerateResource.Cache
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\obj\Debug\conexionbd.exe
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\obj\Debug\conexionbd.xml
+C:\Users\JOHNY\AppData\Local\Temporary Projects\conexionbd\obj\Debug\conexionbd.pdb
